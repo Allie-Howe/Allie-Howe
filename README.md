@@ -9,7 +9,6 @@ I enjoy experimenting with a variety of tools, languages and applications:
 | **Languages** | **Libraries** | **Applications & Frameworks**  |
 | :-----------: | :-----------: | :----------------------------: |
 | <img src="https://img.icons8.com/color/96/000000/javascript.png"/><br> Javascript | <img src="https://img.icons8.com/color/96/000000/react-native.png"/><br> React JS & Native | <img width=96px src="https://bit.ly/2YFm5ZX"/><br> Node.js |
-
 | <img src="https://img.icons8.com/color/96/000000/python.png"/><br> Python | <img width=96px src="https://bit.ly/3jpTlMv"/><br> Processing & p5.js | <img width=96px src="https://bit.ly/32wHFkj"/><br>ASP.NET |
 | <img src="https://img.icons8.com/color/96/000000/microsoft-sql-server.png"/><br> SQL Server                     |
 | <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/><br> C++           | <img src="https://img.icons8.com/color/96/000000/twitter.png"/><br> Social APIs                    |
