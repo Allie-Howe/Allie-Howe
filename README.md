@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/howe-oh/howe-oh/master/assets/gif_2.gif" />
+<img src="https://raw.githubusercontent.com/howe-oh/howe-oh/master/assets/header_gif_small.gif" />
 
 # Hey!
 
